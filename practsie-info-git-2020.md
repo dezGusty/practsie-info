@@ -8,6 +8,7 @@ dacă participați la cursul de git, vă rog să vă asigurați că aveți insta
 - Visual Studio Code (vscode) + extensions
 - SourceTree
 - TortoiseGit (optional)
+- cont de github
 
 ## git
 
@@ -70,3 +71,8 @@ Nu e nevoie să adăugați chei de SSH. Vom face asta în cadrul cursului.
 
 **(Opțional)** Se găsește aici: <https://tortoisegit.org/>.  
 E un client de git cu un mod de lucru alternativ, integrat în Windows Explorer. Din păcate nu știu ceva echivalent pentru Linux/Mac. Se poate și fără el, dar are un tool de comparare pe care îl apreciez și integrare cu Windows Explorer.
+
+## GitHub
+
+Dacă nu aveți deja un cont de github (<https://github.com/>), vă rog să vă faceți unul folosind un mail personal.
+Acest cont va fi folosit pentru exercițiile de grup.
