@@ -20,16 +20,16 @@ Pentru alte sisteme de operare, descărcați o versiune specifică dacă nu ave�
 În cursul instalării de git pentru windows, puteți lăsa **în general** pe valorile default setările. Dar sunt câteva setări pe care le recomand să le modificați:
 
 Pentru a rula git-pentru-windows, vă recomand să înlocuiți vim cu alt editor (ex: Notepad++, Visual Studio Code, etc).
-![git-setup-1](./img/git-setup-1.png)
+> ![git-setup-1](./img/git-setup-1.png)
 
 În exemplul acesta, am ales să folosesc Visual Studio Code:  
-![git-setup-2](./img/git-setup-2.png)
+> ![git-setup-2](./img/git-setup-2.png)
 
 Dacă nu este setată din oficiu opțiunea de "git from the command line and also from 3rd-party software", vă rog să o bifați.  
-![git-setup-3](./img/git-setup-3.png)
+> ![git-setup-3](./img/git-setup-3.png)
 
 Când lucrați cu git pentru windows, e recomandat să vă ajustați line-endings să fie specifice sistemului de operare. Ar trebui să fie implicit, dar verificați că este setat "Checkout Windows-style, commit Unix-style line endings":  
-![git-setup-4](./img/git-setup-4.png)
+> ![git-setup-4](./img/git-setup-4.png)
 
 ## vscode
 
