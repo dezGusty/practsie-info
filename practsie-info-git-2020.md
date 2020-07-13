@@ -54,17 +54,17 @@ E un client de git free cu o interfață destul de bogată.
 ### SourceTree config
 
 Puteți spri peste înregistrare în versiunea aceasta.
-![srctree-1](./img/srctree-1.png)
+> ![srctree-1](./img/srctree-1.png)
 
 Minimul necesar este reprezentat de instalarea de Git.
 Dacă nu aveți deja Git instalat, SourceTree își va downloada propria versiune. Poate fi configurat ulterior să folosească versiunea de sistem.  
-![srctree-2](./img/srctree-2.png)
+> ![srctree-2](./img/srctree-2.png)
 
 Puteți specifica un user-name și user-email. Vom face asta și în cadrul cursului.
-![srctree-3](./img/srctree-3.png)
+> ![srctree-3](./img/srctree-3.png)
 
 Nu e nevoie să adăugați chei de SSH. Vom face asta în cadrul cursului.
-![srctree-4](./img/srctree-4.png)
+> ![srctree-4](./img/srctree-4.png)
 
 ## TortoiseGit
 
