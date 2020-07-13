@@ -28,7 +28,7 @@ Pentru a rula git-pentru-windows, vă recomand să înlocuiți vim cu alt editor
 Dacă nu este setată din oficiu opțiunea de git from the command line adn also from 3rd-party software, vă rog să o bifați.  
 ![git-setup-3](./img/git-setup-3.png)
 
-Când lucrați cu git pentru windows, e recomandat să vă ajustați line-endings să fie specifice sistemului de operare. Ar trebui să fie implicit, dar verificați că este setat  "Checkout Windows-style, commit Unix-style line endings":  
+Când lucrați cu git pentru windows, e recomandat să vă ajustați line-endings să fie specifice sistemului de operare. Ar trebui să fie implicit, dar verificați că este setat "Checkout Windows-style, commit Unix-style line endings":  
 ![git-setup-4](./img/git-setup-4.png)
 
 ## vscode
@@ -46,7 +46,7 @@ Pentru a vă ajuta mai mult în lucrul cu git, vă recomand instalarea unor plug
 
 ## SourceTree
 
-<img alt="sourcetree" src="./img/Sourcetree-blue.svg" width="400" height="80" >  
+<img alt="sourcetree" src="./img/Sourcetree-blue.svg" width="400" height="80" >
 
 E un client de git free cu o interfață destul de bogată.
 Îl găsiți aici: <https://www.sourcetreeapp.com/>.
